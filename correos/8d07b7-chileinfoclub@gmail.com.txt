@@ -1,0 +1,13 @@
+mail: chileinfoclub@gmail.com
+asunto: asunto prueba
+
+<p>contenido prueba</p>
+
+    El valor del <b>dolar</b> el dia de hoy es: 785.89
+
+    El valor del <b>euro</b> el dia de hoy es: 863.52
+
+    El valor del <b>uf</b> el dia de hoy es: 31718.54
+
+    El valor del <b>utm</b> el dia de hoy es: 55537
+    

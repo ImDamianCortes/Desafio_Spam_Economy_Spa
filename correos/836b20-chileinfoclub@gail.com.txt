@@ -1,0 +1,13 @@
+mail: chileinfoclub@gail.com
+asunto: asunto prueba
+
+<p>prueba error</p>
+
+    El valor del dolar el dia de hoy es: 785.89
+
+    El valor del euro el dia de hoy es: 863.52
+
+    El valor del uf el dia de hoy es: 31718.54
+
+    El valor del utm el dia de hoy es: 55537
+    
